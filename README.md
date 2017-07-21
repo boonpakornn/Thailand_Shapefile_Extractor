@@ -16,8 +16,9 @@ You can find demo here: [Jupyter notebook: polygon-Krabi-heatmap](https://github
 Visualizing on Heatmap [polygon-Krabi-heatmap](https://github.com/pcrete/Thailand_Shapefile_Extractor/tree/master/heatmap)
 
 
-linestring of road in district 0 (อำเภอเมืองกระบี่, Mueang Krabi)
+Linestring of road in district 0 (อำเภอเมืองกระบี่, Mueang Krabi)
 ![linestring district 0](https://github.com/pcrete/Thailand_Shapefile_Extractor/blob/master/screenshot/district_0.png)
 
-heatmap
+
+Heatmap
 ![heatmap district 0](https://github.com/pcrete/Thailand_Shapefile_Extractor/blob/master/screenshot/heatmap_district_0.png)
