@@ -14,3 +14,10 @@ http://overpass-turbo.eu/
 You can find demo here: [Jupyter notebook: polygon-Krabi-heatmap](https://github.com/pcrete/Thailand_Shapefile_Extractor/blob/master/polygon-Krabi-heatmap.ipynb)
 
 Visualizing on Heatmap [polygon-Krabi-heatmap](https://github.com/pcrete/Thailand_Shapefile_Extractor/tree/master/heatmap)
+
+
+linestring of road in district 0 (อำเภอเมืองกระบี่, Mueang Krabi)
+![linestring district 0](https://github.com/pcrete/Thailand_Shapefile_Extractor/blob/master/screenshot/district_0.png)
+
+heatmap
+![heatmap district 0](https://github.com/pcrete/Thailand_Shapefile_Extractor/blob/master/screenshot/heatmap_district_0.png)
